@@ -1,12 +1,17 @@
 {
   "Book": {
-    	"title": "string",
+    "title": "string",
 	"isbn": "int",
 	"pages": "int",
-    	"published": "boolean",
+    "published": "boolean",
 	"description": "string",
 	"language": "string",
-	"year": "int",
-	"author": "string"
+	"year": "int"
+  },
+  "Author": {
+    "name": "string",
+	"surname": "string",
+	"address": "string",
+	"telephone": "int"
   }
 }
