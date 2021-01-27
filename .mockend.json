@@ -12,9 +12,9 @@
 	"authors": "Author[]"
   },
   "Author": {
-    "name": "String",
-	"surname": "String",
-	"address": "String",
+    "name": "string",
+	"surname": "string",
+	"address": "string",
 	"telephone": "int",
 	"comments": "string[]"
   }
