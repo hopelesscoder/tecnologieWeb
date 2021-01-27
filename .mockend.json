@@ -7,7 +7,7 @@
 	"description": "string",
 	"language": "string",
 	"year": "int",
-	"authors": {
+	"author": {
 		"name": "string",
 		"surname": "string",
 		"address": "string",
