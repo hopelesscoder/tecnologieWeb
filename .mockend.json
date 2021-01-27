@@ -1,9 +1,9 @@
 {
   "Book": {
-    "title": "string",
+    	"title": "string",
 	"isbn": "int",
 	"pages": "int",
-    "published": "boolean",
+    	"published": "boolean",
 	"description": "string",
 	"language": "string",
 	"year": "int",
@@ -13,5 +13,11 @@
 		"address": "string",
 		"telephone": "int"
 	  }
+  },
+  "Author": {
+    "name": "string",
+	"surname": "string",
+	"address": "string",
+	"telephone": "int"
   }
 }
