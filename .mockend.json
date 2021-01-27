@@ -1,0 +1,7 @@
+{
+  "Book": {
+    "title": "string",
+    "author": "string",
+    "published": "boolean"
+  }
+}
