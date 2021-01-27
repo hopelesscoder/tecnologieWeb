@@ -13,6 +13,6 @@
 	"description": "string",
 	"language": "string",
 	"year": "int",
-	"authore": "string"
+	"Author": "Author"
   }
 }
