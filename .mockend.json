@@ -6,7 +6,8 @@
     "published": "boolean",
 	"description": "string",
 	"language": "string",
-	"year": "int"
+	"year": "int",
+	  "autore": ["string", "string"]
   },
   "Author": {
     "name": "string",
