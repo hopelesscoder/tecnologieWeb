@@ -1,10 +1,4 @@
 {
-  "Author": {
-    "name": "string",
-	"surname": "string",
-	"address": "string",
-	"telephone": "int"
-  },
   "Book": {
     "title": "string",
 	"isbn": "int",
@@ -13,6 +7,11 @@
 	"description": "string",
 	"language": "string",
 	"year": "int",
-	"Author": "Author"
+	"authors": {
+		"name": "string",
+		"surname": "string",
+		"address": "string",
+		"telephone": "int"
+	  }
   }
 }
