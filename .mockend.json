@@ -1,16 +1,6 @@
 {
-	  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  },
   "Author": {
+   "id": "int"
     "name": "string",
 	"surname": "string",
 	"address": "string",
@@ -24,6 +14,6 @@
 	"description": "string",
 	"language": "string",
 	"year": "int",
-	"author": "Author"
+	"author": Author
   }
 }
