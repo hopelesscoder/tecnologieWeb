@@ -1,6 +1,5 @@
 {
   "Author": {
-   "id": "int",
     "name": "string",
 	"surname": "string",
 	"address": "string",
