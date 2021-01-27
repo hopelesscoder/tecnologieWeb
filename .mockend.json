@@ -8,14 +8,12 @@
 	"description": "string",
 	"language": "string",
 	"year": "int",
-	"categories": "string[]",
 	"authors": "Author[]"
   },
   "Author": {
     "name": "string",
 	"surname": "string",
 	"address": "string",
-	"telephone": "int",
-	"comments": "string[]"
+	"telephone": "int"
   }
 }
