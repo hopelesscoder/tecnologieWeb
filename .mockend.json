@@ -7,17 +7,6 @@
 	"description": "string",
 	"language": "string",
 	"year": "int",
-	"author": {
-		"name": "string",
-		"surname": "string",
-		"address": "string",
-		"telephone": "int"
-	  }
-  },
-  "Author": {
-    "name": "string",
-	"surname": "string",
-	"address": "string",
-	"telephone": "int"
+	"author": ["name": "string"]
   }
 }
