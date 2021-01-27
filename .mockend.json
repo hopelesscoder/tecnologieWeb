@@ -1,6 +1,6 @@
 {
   "Author": {
-   "id": "int"
+   "id": "int",
     "name": "string",
 	"surname": "string",
 	"address": "string",
